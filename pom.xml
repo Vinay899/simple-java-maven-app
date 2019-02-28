@@ -33,12 +33,13 @@
         </configuration>
       </plugin>
     </plugins>
-    <distributionManagement>
+    
+  </build>
+  <distributionManagement>
                 <repository>
                         <id>R1</id>
                         <name>R1-Sampath-Partha-Docker</name>
                         <url>http://52.205.253.238:8081/nexus/content/repositories/releases</url>
                 </repository>
  </distributionManagement> 
-  </build>
 </project>
