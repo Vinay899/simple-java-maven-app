@@ -37,9 +37,9 @@
    </build>
              <distributionManagement>
                 <repository>
-                        <id>releases</id>
-                        <name>Releases</name>
-                        <url>http://52.205.253.238:8081/nexus/content/repositories/releases/</url>
+                        <id>r1</id>
+                        <name>r1</name>
+                        <url>http://52.205.253.238:8081/nexus/content/repositories/r1/</url>
                   
                 </repository>
  </distributionManagement> 
