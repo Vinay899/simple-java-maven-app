@@ -35,11 +35,11 @@
      </plugins>
             
    </build>
-             <distributionManagement>
+            <distributionManagement>
                 <repository>
-                        <id>releases</id>
-                        <name>Releases</name>
-                        <url>http://52.205.253.238:8081/nexus/content/repositories/releases</url>
+                        <id>vinay899</id>
+                        <name>vinay</name>
+                        <url>http://18.144.14.199:8081/nexus/content/repositories/vinay899</url>
                 </repository>
-            </distributionManagement> 
+            </distributionManagement>  
 </project>
